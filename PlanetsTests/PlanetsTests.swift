@@ -13,7 +13,7 @@ class PlanetsTests: XCTestCase {
 
     func testExample() {
         let sun = Planet.sun
-        XCTAssert(sun.distanceFromParent == 0, "NOPE")
+        XCTAssert(sun.distanceFromParent == 0.5, "NOPE")
     }
 
 }
