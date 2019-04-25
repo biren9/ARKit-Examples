@@ -1,5 +1,5 @@
 language: swift
 xcode_project: Planets.xcodeproj # path to your xcodeproj folder
 xcode_scheme: Planets
-xcode_destination: platform=iOS Simulator,OS=10.1,name=iPad Pro (9.7-inch)
+xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone Xʀ
 osx_image: xcode10.2
